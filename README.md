@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="./public/images/brands/Brand.png" alt="ANA &bull; Assistant to Normalize Activities"></a>
+ <img src="https://ana8.vercel.app/images/brands/Brand.png" alt="ANA &bull; Assistant to Normalize Activities"></a>
 </p>
 <h3 align="center">ANA &bull; Assistant to Normalize Activities</h3>
 
