@@ -1,0 +1,15 @@
+---
+applications:
+- instances: 1
+  timeout: 180
+  name: noderedfkbsf20200731ana
+  buildpack: sdk-for-nodejs
+  command: npm start
+  disk_quota: 1G
+  memory: 256MB
+  domain: mybluemix.net
+  host: node-red--ana
+  services:
+    - node-red-ANA-10218
+  env:
+    OPTIMIZE_MEMORY: true
