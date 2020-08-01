@@ -43,7 +43,7 @@ ANA will also analyze the emotional traits of the user's audio which will allow 
 
 ## 🚀 Roadmap <a name = "future_scope"></a>
 
-![Roadmap](./public/images/readme/Roadmap.png)
+![Roadmap](https://ana8.vercel.app/images/readme/Roadmap.png)
 
 ## ⛏️ Built With <a name = "tech_stack"></a>
 
